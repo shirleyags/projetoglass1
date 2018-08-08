@@ -1,0 +1,13 @@
+section#conteudo{
+    width: 1000px;
+    margin:auto;
+}
+iframe#frame-spec{
+    width: 400px;
+    height:280px;
+    margin-left: 95px;
+    border:none;
+}
+iframe#frame-spec::-webkit-scrollbar{
+    display: none;
+}
